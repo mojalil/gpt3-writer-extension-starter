@@ -1,0 +1,178 @@
+You will act as an idea generator for  a join venture and trade partnership for a company. Take the  input and convert it into the output. You will need to
+
+-  Find a suitable partner that fits the goal of the company.
+-  If possbile tie the idea into seasonal event or major sporting event
+-  Choose a type of partnership from the following:
+ 1/ Revenue sharing partnership: Instead of a guaranteed revenue amount, your company and the partner could agree to share a percentage of the revenue generated from the bundle offer.
+
+2/ Joint marketing partnership: Instead of a one-time email blast, your company and the partner could agree to a long-term marketing partnership where both companies promote each other's products and services through various channels.
+
+3/ Co-branding partnership: Instead of a bundle offer, your company and the partner could agree to co-brand certain products or services. This would involve both companies' logos and branding being prominently displayed on the products or services.
+
+4/ Affiliate partnership: Your company could partner with an affiliate network or individual affiliates, who would promote the bundle offer to their audience in exchange for a commission.
+
+5/ Exclusive distribution partnership: Your company could agree to an exclusive distribution partnership with the partner, where the partner would be the only retailer authorized to sell the bundle offer in a specific region or market.
+
+-  Provide creative reasoning for the comarketing and trade partnership.
+-  Add references for why numbers are used and why it's a good idea.
+
+Input Example:
+Sonos is a pioneer of wireless audio, holding over 500 patents, supporting 50+ streaming services, and has established its presence in more than 60 countries. Sonos is looking to expand into South Asia/South East Asia and would like to partner with a physical techonoly provider to offer Sonos speakers as part of a bundle deal in the region.  Timeline for the deal is between Oct 2022 and March 2023
+
+Output Example:
+
+Partner, one potential partner for your company, Sonos, to expand into South Asia/Southeast Asia could be Samsung. Samsung is a well-established technology provider with a strong presence in the region, and they offer a wide range of products including smartphones, televisions, and home appliances.
+
+A potential partnership structure could be a product bundle partnership, where Samsung would offer Sonos speakers as part of a bundle deal with their products in the region.
+
+For example,
+
+    - Bundle offer: Samsung Smart TV + Sonos Beam bundle
+    - Bundle price: $1,199
+    - Sales projection: 15,000 units in 6 months
+    - Location: South Asia/Southeast Asia
+    - Timeframe: Oct 2022 to March 2023
+    - Channels:
+        - Retail: Exclusive offer at Samsung and Sonos retail stores in South Asia/Southeast Asia
+        - Online: Exclusive offer on Samsung and Sonos online stores in South Asia/Southeast Asia
+    - Commitments:
+        - Sonos: Provide technical support to Samsung customers, cross-promotions at major technology events in South Asia/Southeast Asia, and discounts for Samsung customers.
+        - Samsung: Provide marketing support for the bundle deal, include Sonos app in Samsung smart TV, and provide discounts for Sonos customers.
+    - Budget:
+        Sonos: $150,000 for technical support and cross-promotions
+        Samsung: $200,000 for marketing support, app inclusion and discounts
+
+Reasoning : This partnership structure aligns well with your company's goal of expanding into South Asia/Southeast Asia, and offers a bundle deal that appeals to customers looking for high-quality audio experience with their TV. The bundle deal is exclusive to Samsung and Sonos retail and online stores in the region, which helps drive sales and increase brand awareness. Additionally, both companies have clear commitments, budget and timelines that they have to adhere to, which will help the partnership to be successful.
+A product bundle partnership between Sonos and Samsung would be a good deal for both companies for a few reasons:
+
+Financially: By offering a bundle deal, both companies can expect to see an increase in sales due to the added value that the bundle provides to customers. The bundle price of $1,199 is higher than the individual prices of Samsung Smart TV and Sonos Beam, which means that both companies will see an increase in revenue. Additionally, by sharing the costs of marketing and support, both companies can reduce their expenses and increase their profit margins.
+
+Brand exposure: By partnering with a well-established technology provider like Samsung, Sonos can increase its brand exposure and reach a wider audience in South Asia/Southeast Asia. Samsung, on the other hand, can leverage the high-quality audio reputation of Sonos to enhance the overall customer experience with Samsung products.
+
+Cross-promotion: The partnership allows for both companies to cross-promote their products and services, providing exposure to new customers. This can help both companies increase their customer base and increase sales.
+
+Customer acquisition: Samsung customers who purchase the bundle deal may become Sonos customers, and vice versa. This can help both companies increase their customer base and generate additional revenue in the future.
+
+Technical support: Samsung customers can benefit from the technical support provided by Sonos, which can help improve the overall customer experience. This can help Samsung improve its reputation and customer loyalty.
+
+Overall, this partnership between Sonos and Samsung is mutually beneficial and helps both companies achieve their goals. It allows them to increase their revenue and customer base, while also providing benefits such as cross-promotions and technical support.
+
+
+Input Example 2:
+
+My company is Xbox gaming, we would like to expand into south east asia officailly and are looking for a partner to give us exposure to gamers and expand our brand. We are open to cross promotions and trade partnerships.
+
+Output Example 2: 
+
+One potential partner for you to consider is Razer. This partnership with Razer is a good opportunity for your company, Xbox, to expand into Southeast Asia and increase brand exposure to gamers in the region. The bundle offer of Xbox One and Razer products is exclusive to Xbox and Razer retail stores and online, and will be promoted through social media, which will help drive sales and increase awareness of the Xbox brand. Additionally, the partnership offers several benefits for both companies. Xbox can offer value-added services to Razer customers, while Razer can provide exposure to Xbox.
+
+One deal structure that your company could consider is a revenue sharing partnership. Under this structure, your company and the partner would agree to share a percentage of the revenue generated from the bundle offer.
+
+Example:
+
+    - Revenue sharing percentage: 50/50
+    - Bundle offer: Xbox One - Razer Bundle
+    - Bundle price: $499
+    - Sales projection: 10,000 units in 6 months
+    - Location: Southeast Asia
+    - Timeframe: 6 months
+    - Channels:
+        - Retail: Exclusive offer at Xbox and Razer retail stores in Southeast Asia.
+        - Online: Exclusive offer on Xbox and Razer online stores in Southeast Asia.
+        - Social Media: Promotion of the bundle offer through Xbox and Razer's social media channels in Southeast Asia.
+        - Events: Cross-promotions at major gaming events in Southeast Asia such as The International, LCS and others.
+    - Commitments:
+        - Xbox: email 350,000 Razer customers, social media marketing for 4 weeks, retail support at 50% of Razer retail partners, 100 sales representatives at all retail stores
+        - Razer: email 400,000 Xbox One owners, provide online and phone support for customers, cross-promotions at major events like The International, LCS, and others.
+    - Budget:
+        - Xbox: $150,000 for email marketing, social media marketing and retail support
+        - Razer: $200,000 for email marketing, support and cross-promotions
+
+Reasoning: This revenue sharing partnership structure aligns well with the goal of expanding into Southeast Asia and increasing brand exposure to gamers in the region, as well as providing a revenue guarantee for both companies. Additionally, it allows for both companies to have a clear understanding of their costs, commitments and budget.
+As you can see, the bundle offer will be offered exclusively at Xbox and Razer retail stores in Southeast Asia, Xbox and Razer online stores in Southeast Asia, and promoted through social media channels of both companies in Southeast Asia. Furthermore, the bundle will be promoted at major gaming events in Southeast Asia by Razer and Xbox. This will help increase the brand exposure and drive sales, as well as providing a revenue guarantee for both companies.
+
+Financially : Under this deal structure, both companies would share the revenue generated from the bundle offer, with each company receiving 50% of the revenue. Based on the sales projection of 10,000 units at a price of $499, the total revenue generated would be $4,990,000. Each company would receive $2,495,000 in revenue.
+
+As for alternative partners, there are many other companies that could be a good fit for your company. For example, you could consider partnering with other gaming companies like Sony, Nintendo, or EA. Another option could be to partner with streaming platforms like Twitch or YouTube, or with gaming peripheral companies such as Logitech or HyperX. Ultimately, the most important factor is to find a partner that can provide exposure to your target audience and aligns with your company's goals.
+
+
+Input Example 3:
+Nintendo  is looking to promote healthy food and diets for teens as part of it's brand in North American market and would like to partner with a company with brand alignment.  Timeline for the deal is between Oct 2022 and March 2023
+
+Output Example 3:
+One potential partner for your company, Nintendo, to promote healthy food and diets for teens in the North American market could be a company like Whole Foods. Whole Foods is a well-established grocery store known for its focus on natural and organic products and have a strong brand alignment with promoting healthy lifestyles.
+
+A potential partnership structure could be a product bundle partnership, where Whole Foods would offer a bundle deal of healthy food options and a Nintendo gaming console or a gaming related product as part of a bundle deal in North America.
+
+For example,
+
+    - Bundle offer: Whole Foods Healthy Food package + Nintendo Switch Lite bundle
+    - Bundle price: $499
+    - Sales projection: 15,000 units in 6 months
+    - Location: North America
+    - Timeframe: Oct 2022 to March 2023
+    - Channels:
+        - Retail: Exclusive offer at Whole Foods stores in North America
+        - Online: Exclusive offer on Whole Foods online store in North America
+    Commitments:
+        - Nintendo: Provide healthy food and diet information to Whole Foods customers, cross-promotions at major health events in North America, and discounts for Whole Foods customers.
+        - Whole Foods: Provide marketing support for the bundle deal, include healthy food and diet information in the package, and provide discounts for Nintendo customers.
+    Budget:
+        - Nintendo: $150,000 for healthy food and diet information and cross-promotions
+        - Whole Foods: $200,000 for marketing support, healthy food package and discounts
+
+This partnership structure aligns well with your company's goal of promoting healthy food and diets for teens as part of its brand in the North American market and finding a company with brand alignment. The bundle deal is exclusive to Whole Foods stores in North America, which helps drive sales and increase brand awareness. Additionally, both companies have clear commitments, budget and timelines that they have to adhere to, which will help the partnership to be successful. Furthermore, by providing healthy food and diet information to Whole Foods customers, Nintendo is promoting healthy lifestyles, which aligns with its brand's goal.
+
+Output Example 4:
+
+Another potential deal type and structure that your company, Nintendo, could consider to promote healthy food and diets for teens in the North American market is a co-branding partnership with a meal delivery service like Blue Apron.
+
+Under this partnership structure, Blue Apron would create a line of healthy meal options specifically tailored to teens, and would feature the Nintendo brand and characters on packaging, marketing materials, and the Blue Apron website. The partnership would have a timeline of Oct 2022 to March 2023.
+
+For example:
+
+    - Co-branding: Blue Apron "Nintendo for Teens" meal options
+    - Location: North America
+    - Timeframe: Oct 2022 to March 2023
+    - Channels:
+        - Online: Available for purchase on the Blue Apron website and app
+    - Commitments:
+        - Nintendo: Provide input on the creation of the meal options, cross-promote the meal options on its website and social media, and include a discount code for Blue Apron on Nintendo's website.
+        - Blue Apron: Create a line of healthy meal options specifically tailored to teens, feature the Nintendo brand and characters on packaging, marketing materials, and the Blue Apron website, and provide discounts for Nintendo customers.
+    Budget:
+        - Nintendo: $50,000 for cross-promotion and discounts
+        - Blue Apron: $200,000 for meal development, packaging and marketing
+
+This partnership aligns well with your company's goal of promoting healthy food and diets for teens as part of its brand in the North American market and finding a company with brand alignment. By working with Blue Apron to create a line of healthy meal options specifically tailored to teens and featuring the Nintendo brand and characters, it will appeal to the target audience, and increase the brand's exposure. Additionally, both companies can cross-promote the meal options on their website and social media. This partnership allows Nintendo to reach its target audience, and Blue Apron to expand its customer base, while also providing benefits such as discounts.
+
+Input:
+Disney would like to expand it's presense into households in east asia, they want to promote families to vist their theme parks. 
+
+Output:
+One potential partner for your company, Disney, to expand its presence into households in East Asia and promote families to visit its theme parks could be a company like Airbnb. Airbnb is a well-established travel and hospitality company with a strong presence in the region, and they offer a wide variety of accommodations and experiences.
+
+A potential partnership structure could be a product bundle partnership, where Airbnb would offer a bundle deal of accommodation and tickets to Disney theme parks as part of a bundle deal in East Asia.
+
+For example,
+
+    Bundle offer: Airbnb accommodation + Disney theme park tickets
+    Bundle price: $999
+    Sales projection: 10,000 units in 6 months
+    Location: East Asia
+    Timeframe: 6 months
+    Channels:
+        Retail: Exclusive offer at Disney and Airbnb retail stores in East Asia
+        Online: Exclusive offer on Disney and Airbnb online stores in East Asia
+    Commitments:
+        Disney: Provide marketing support for the bundle deal, discounts for Airbnb customers, and cross-promotions at major travel events in East Asia.
+        Airbnb: Provide marketing support for the bundle deal, include Disney app in Airbnb app, and discounts for Disney customers.
+    Budget:
+        Disney: $150,000 for marketing support and cross-promotions
+        Airbnb: $200,000 for marketing support, app inclusion and discounts
+
+This partnership structure aligns well with your company's goal of expanding into East Asia and promoting families to visit its theme parks, as well as providing a revenue guarantee for both companies. Additionally, it allows for both companies to have a clear understanding of their costs, commitments and budget.
+As you can see, the bundle offer will be offered exclusively at Disney and Airbnb retail stores in East Asia, Disney and Airbnb online stores in East Asia, and promoted through social media channels of both companies in East Asia. Furthermore, the bundle will be promoted at major travel events in East Asia by Disney and Airbnb. This will help increase the brand exposure and drive sales, as well as providing a revenue guarantee for both companies.
+
+Financially : Under this deal structure, both companies would share the revenue generated from the bundle offer, with each company receiving 50% of the revenue. Based on the sales projection of 10,000 units at a price of $999, the total revenue generated would be $9,990,000. Each company would receive $4,995,000 in revenue.
+
+Ultimately, this partnership between Disney and Airbnb is mutually beneficial and helps both companies achieve their goals. It allows them to increase their revenue and customer base, while also providing benefits such as cross-promotions and discounts.
